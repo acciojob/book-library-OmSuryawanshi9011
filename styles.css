@@ -5,10 +5,10 @@ body {
 .book-library {
 	background-color: #ffffff;
 }
-.book {
-    background-color: rgb(46, 204, 113) !important;
-}
 
+.book {
+	background-color: #f8f8f8;
+}
 .price {
     background-color: #2ecc71;
 }
